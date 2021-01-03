@@ -7,4 +7,5 @@ Para ver como está funcionando el algoritmo actualmente basta con ejecutar comp
 Si se desea, se puede probar con imágenes a gusto; no debería haber errores.
 
 Revisar el código que se encuentra en la rama Entrega_final
+
 El código también se puede ver en https://colab.research.google.com/drive/1WuLgavZmCZCukP4H6DfpY1b9NunHYjqs?authuser=1#scrollTo=f-hPC23ci9qS
